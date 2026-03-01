@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I’m Nabil
 
-<!--
-**nabil-repo/nabil-repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+## About me
+- I build and learn by shipping small projects.
+- Interested in open-source and practical, real-world software.
+- Always improving my skills and looking for good problems to solve.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m working on
+- Setting up my GitHub profile and portfolio
+
+## Skills
+- Languages: JavaScript, Python
+- Tools: Git, GitHub
+
+## Get in touch
+- GitHub: https://github.com/nabil-repo
+
+---
+
+> Want this README to be more personal? Tell me your role/title, tech stack, and 3 projects to feature, and I’ll tailor it.
