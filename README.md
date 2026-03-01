@@ -2,8 +2,8 @@
 
 Full‑stack TypeScript developer building web apps, mobile experiences, and Web3 products.
 
-- Currently building: **Pair-Agent** (autonomous pair-trading analysis agent)
-- Interests: **Next.js, Supabase, React Native, EVM / Solidity, agentic systems**
+- Currently building: **ElaraFi / Pair trading agents** (autonomous pair-trading analysis + execution)
+- Interests: **Next.js, Supabase, React Native, Solana/Anchor, EVM/Solidity, agentic systems**
 - Contact: **nabil.aaaman@gmail.com**
 
 ## Featured projects
@@ -29,18 +29,51 @@ React Native + Expo assistant that parses errands and optimizes routes using nea
 - Android APK: https://github.com/nabil-repo/AiErrand_Commander/releases/tag/Android_APK
 - Stack: React Native, Expo, TypeScript, Foursquare Places API
 
+### 🎮 SecretArena (mini-games)
+Decentralized, privacy-first mini-games suite on Solana using MagicBlock TEE + Anchor.
+
+- Repo: https://github.com/nabil-repo/mini-games
+- Live demo: https://secretarena.vercel.app/
+- Stack: TypeScript, React Native (Expo), Solana, Anchor (Rust), MagicBlock
+
 ### 📈 Pair-Agent
 Autonomous pair-trading analysis agent that computes correlation/beta/z-score and narrates signals.
 
 - Repo: https://github.com/Elarafi-trade/pair-agent
 - Stack: TypeScript
 
+### 🧠 pair_agentverse
+Agentverse + Fetch.ai integration for daily top-pairs signals (ElaraFi ecosystem).
+
+- Repo: https://github.com/Elarafi-trade/pair_agentverse
+- Stack: Python
+
+### ⚡ ElaraFi (V1)
+AI-powered pair trading protocol on Solana built on Drift Protocol.
+
+- Repo: https://github.com/Elarafi-trade/V1 *(private)*
+- Live: https://www.elarafi.xyz/
+- Stack: TypeScript, Solana, Drift
+
+### 🏨 Hostel website (Chandralok)
+Simple hostel website deployed on Vercel.
+
+- Repo: https://github.com/nabil-repo/GURUMAULI_HOSTEL *(private)*
+- Live demo: https://chandralokhostel.vercel.app
+
+### 🎟️ NFT Ticketing (v0)
+Prototype ticketing UI synced from v0.app.
+
+- Repo: https://github.com/nabil-repo/nft-ticketing *(private)*
+- Live demo: https://v0-nft-ticketing-system-eight.vercel.app
+
 ## Tech
-- **Languages**: TypeScript, JavaScript, Solidity
+- **Languages**: TypeScript, JavaScript, Python, Solidity
 - **Frontend**: Next.js, React, Tailwind CSS
 - **Mobile**: React Native, Expo
 - **Backend/DB**: Supabase
-- **Web3**: ethers.js, Hardhat
+- **Solana**: Anchor, Drift Protocol
+- **Web3/EVM**: ethers.js, Hardhat
 
 ## Stats
 
